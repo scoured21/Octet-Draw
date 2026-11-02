@@ -27,3 +27,4 @@ dist-namedemo
 
 # scripts/drive/drive.mjs
 drive-out/
+/result
